@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+build/
+dist/
+source_templates/
+model/prepared*/
+model/runs*/
+*.pt
+*.npz
+*.hds
+*.ucn
+*.bud
+*.cbc
+*.lst
+*.log
