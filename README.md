@@ -1,7 +1,5 @@
 # Groundwater neural operators
 
-Code for the head-conditioned two-stage groundwater flow and solute transport study, checked against `Manuscript_20261023.docx` and `Supporting_Information_20261023_lf.docx` on October 22, 2026.
-
 The repository contains synthetic-data generation, five neural-network backbones, two-stage and dual-branch training, local flow/transport residuals, and the fixed numerical-model input configurations. Generated datasets and trained weights are produced locally by the commands below.
 
 ## Installation
